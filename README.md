@@ -1,6 +1,5 @@
-### Hello everyone 👋
-
-### Welcome to my GitHub profile :D
+### Welcome to my GitHub profile 👋
+### Junior developer with experience in web development. I've worked on various projects independently, including creating websites for local businesses using different programming languages such as JavaScript (with HTML and CSS, utilizing Bootstrap) and Django-DRF on the backend.
 
 <!--
 **DevNickDs/DevNickDs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
