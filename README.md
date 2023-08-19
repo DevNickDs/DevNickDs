@@ -1,5 +1,5 @@
 ### Welcome to my GitHub profile 👋
-### Junior developer with experience in web development. I've worked on various projects independently, including creating websites for local businesses using different programming languages such as JavaScript (with HTML and CSS, utilizing Bootstrap) and Django-DRF on the backend.
+### Junior developer with experience in web development. I've worked on various projects independently, including creating websites for local businesses using different programming languages such as JavaScript (with HTML and CSS, utilizing Bootstrap) and Django/DRF on the backend.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasdurs/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com)
