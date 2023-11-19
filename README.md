@@ -1,17 +1,56 @@
-### Welcome to my GitHub profile 👋
-### Junior developer with experience in web development. I've worked on various projects independently, including creating websites for local businesses using different programming languages such as JavaScript (with HTML and CSS, utilizing Bootstrap) and Django/DRF on the backend.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Nicolás+Durango!;" />
+</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasdurs/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com)
+<h3 align="center">A backend developer from Colombia 🇨🇴</h3>
 
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<br/>
+<div align="center">
+
+ 🔭 I’m currently working on **Restaurant API**. 
+ 
+ 🌱 I’m currently learning **JavaScript**.
+ 
+ ⚡ I like anime, manga & movies (I actually have a Letterboxd profile).
+
+</div>
+ 
+<div align="center"> 
+  <a href="mailto:nikolasdurango@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> 
+  </a>
+  
+  <a href="https://linkedin.com/in/nicds" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> 
+  </a>
+  
+  <a href="https://nicds.onrender.com/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a>
+  
+</div>
+
+
+<hr/>
+  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+  <br/>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=python,django,postgres,postman,github,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript" /><br>
+  </div>
+  <br/>
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com?user=nicds-dev&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=nicds-dev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Streak"/>
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicds-dev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
 
 
 <!--
