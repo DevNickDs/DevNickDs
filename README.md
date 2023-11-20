@@ -47,9 +47,9 @@
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com?user=nicds-dev&theme=transparent&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=nicds-dev&include_all_commits=false&show_icons=true&theme=transparent&rank_icon=github&border_radius=10" alt="GitHub Streak"/>
+  <img width=390 src="https://github-readme-stats-nicds-projects.vercel.app/api?username=nicds-dev&show_icons=true&theme=transparent&rank_icon=github&border_radius=10" alt="GitHub Streak"/>
   <br/>
-  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicds-dev&hide=HTML&langs_count=8&layout=compact&theme=transparent&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=DarkMode" alt="top langs" />
+  <img width=390 align="center" src="https://github-readme-stats-nicds-projects.vercel.app/api/top-langs/?username=nicds-dev&hide=HTML&langs_count=8&layout=compact&theme=transparent&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
