@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Nicolás+Durango!;" />
 </h1>
 
-<h3 align="center">A backend developer from Colombia 🇨🇴</h3>
+<h3 align="center">Backend Developer from Colombia 🇨🇴</h3>
 
 <br/>
 <div align="center">
@@ -10,6 +10,8 @@
  🔭 I’m currently working on **Restaurant API**. 
  
  🌱 I’m currently learning **JavaScript**.
+
+ 💬 Ask me something about my preferred **Languages/Frameworks [here](https://github.com/nicds-dev/nicds-dev/issues)**
  
  ⚡ I like anime, manga & movies (I actually have a Letterboxd profile).
 
