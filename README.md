@@ -40,11 +40,10 @@
   <br/>
   <div align="center">
     <img src="https://skillicons.dev/icons?i=python,django,postgres,postman,github,git" />
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,vue,bootstrap" /><br>
   </div>
-  <br/>
-<hr/>
 
+<!--
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
@@ -57,7 +56,7 @@
 <br/><br/>
 
 
-<!--
+
 **DevNickDs/DevNickDs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
